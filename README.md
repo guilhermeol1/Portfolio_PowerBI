@@ -1,5 +1,6 @@
 # Portfolio Power BI 📊 📈  
-<img width="1584" height="396" alt="Capa do portfolio de Power BI (1)" src="https://github.com/user-attachments/assets/56e6864e-f60d-478f-8f7f-24d6c5f1416e" />
+<img width="1584" height="396" alt="Capa_portfolio_PowerBI" src="https://github.com/user-attachments/assets/7842c4a8-b431-40c7-9f90-aa66ff9cb6b2" />
+
 
 Bem vindo(a) ao meu portfolio de projetos em Power BI!  
 Neste repositório estão armazenados todos os dashboards que criei durante o início da minha jornada de estudos com o Microsoft Power BI, com foco em ingressar na área de analista de BI como estagiário.  
