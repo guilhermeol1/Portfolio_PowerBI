@@ -7,6 +7,7 @@ Esse é um portfolio diversificado com dashboards para as seguintes áreas de ne
 
 ## Projeto de Vendas  
 ![Dashboard_de_Vendas_Guilherme](https://github.com/user-attachments/assets/a37e8295-4ede-4387-b755-bbdefefe9cd3)  
+Arquivos do projeto: https://github.com/guilhermeol1/Portfolio_PowerBI/tree/main/Dashboard_Vendas_GuilhermeOliveira
 
 Esse é um projeto de Análise Comercial utilizando o Power BI, feito durante o minicurso de Power BI da Xperiun.
 
