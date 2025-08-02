@@ -30,6 +30,8 @@ O painel permite explorar dados como:
 Nesse projeto foi utilizada apenas uma tabela como base de dados fictícia fornecidas no curso. A base foi tratada no Power Query para garantir a qualidade dos dados, e medidas DAX foram criadas para calcular algumas informações de forma precisa (Além disso um dos exercícios propostos envolvia o cálculo do total e do percentual de funcionários que devem receber promoção, porém não foram utilizadas no dashboard).
 
 ## Projeto de Logística  
+![Dashboard_Logística_Guilherme](https://github.com/user-attachments/assets/8e0f7c06-77e3-40a9-8845-ce1adf45cbed)  
+Arquivos desse projeto: https://github.com/guilhermeol1/Portfolio_PowerBI/tree/main/Dashboard_Log%C3%ADstica_GuilhermeOliveira
 
 Esse é um projeto de Análise de dados de Logística utilizando o Power BI, feito durante o curso do Data Science Academy (Microsoft Power BI Para Business Intelligence e Data Science).
 
@@ -41,3 +43,9 @@ O novo painel oferece uma visão completa da operação, com KPIs que respondem 
 - Visão Geral: Métricas de alto nível, como o total geral de entregas e de entregas no prazo, para uma visão instantânea da operação.
 
 Nesse projeto foi utilizada apenas uma tabela como base de dados fictícia fornecidas no curso. A base foi tratada no Power Query para garantir a qualidade dos dados, e medidas DAX foram criadas para calcular algumas informações de forma precisa, onde foram aplicadas técnicas de modelagem e visualização para transformar um projeto inicial deficiente em uma ferramenta estratégica e funcional.
+
+## Projeto Financeiro  
+
+Arquivos desse projeto:
+
+Esse é um projeto de Análise de dados Financeiros utilizando o Power BI, feito durante o curso do Data Science Academy (Microsoft Power BI Para Business Intelligence e Data Science).
