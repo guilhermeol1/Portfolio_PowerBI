@@ -5,6 +5,11 @@
 Bem vindo(a) ao meu portfolio de projetos em Power BI!  
 Neste repositório estão armazenados todos os dashboards que criei durante o início da minha jornada de estudos com o Microsoft Power BI, com foco em ingressar na área de analista de BI como estagiário.  
 Esse é um portfolio diversificado com dashboards para as seguintes áreas de negócio:  
+## Projeto de Marketing  
+Arquivos desse projeto:
+
+Esse é um projeto de Análise de dados de Marketing utilizando o Power BI.
+
 ## Projeto de Vendas  
 ![Dashboard_de_Vendas_Guilherme](https://github.com/user-attachments/assets/a37e8295-4ede-4387-b755-bbdefefe9cd3)  
 Arquivos desse projeto: https://github.com/guilhermeol1/Portfolio_PowerBI/tree/main/Dashboard_Vendas_GuilhermeOliveira
