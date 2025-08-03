@@ -45,7 +45,7 @@ O novo painel oferece uma visão completa da operação, com KPIs que respondem 
 Nesse projeto foi utilizada apenas uma tabela como base de dados fictícia fornecidas no curso. A base foi tratada no Power Query para garantir a qualidade dos dados, e medidas DAX foram criadas para calcular algumas informações de forma precisa, onde foram aplicadas técnicas de modelagem e visualização para transformar um projeto inicial deficiente em uma ferramenta estratégica e funcional.
 
 ## Projeto Financeiro  
-
+![Dashboard_Financeiro_Guilherme](https://github.com/user-attachments/assets/c61d6d96-f985-46b2-b645-09a0168195d4)  
 Arquivos desse projeto: https://github.com/guilhermeol1/Portfolio_PowerBI/tree/main/Dashboard_Financeiro_GuilhermeOliveira
 
 Esse é um projeto de Análise de dados Financeiros utilizando o Power BI, feito durante o curso do Data Science Academy (Microsoft Power BI Para Business Intelligence e Data Science).
@@ -60,7 +60,7 @@ O painel permite:
 Nesse projeto foi utilizada apenas uma tabela como base de dados fictícia fornecidas no curso. A base foi tratada no Power Query para garantir a qualidade dos dados, e medidas DAX foram criadas para calcular algumas informações de forma mais precisa.
 
 ## Projeto Contábil
-
+![Dashboard_Contabil_Guilherme](https://github.com/user-attachments/assets/bb494b81-a387-4ab1-9bd6-247f8e677f25)  
 Arquivos desse projeto: https://github.com/guilhermeol1/Portfolio_PowerBI/tree/main/Dashboard_Contabilidade_GuilhermeOliveira
 
 Esse é um projeto de Análise de dados Contábeis utilizando o Power BI, feito durante o curso do Data Science Academy (Microsoft Power BI Para Business Intelligence e Data Science).
