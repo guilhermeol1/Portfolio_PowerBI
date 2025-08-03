@@ -46,7 +46,7 @@ Nesse projeto foi utilizada apenas uma tabela como base de dados fictícia forne
 
 ## Projeto Financeiro  
 
-Arquivos desse projeto:
+Arquivos desse projeto: https://github.com/guilhermeol1/Portfolio_PowerBI/tree/main/Dashboard_Financeiro_GuilhermeOliveira
 
 Esse é um projeto de Análise de dados Financeiros utilizando o Power BI, feito durante o curso do Data Science Academy (Microsoft Power BI Para Business Intelligence e Data Science).
 
@@ -61,7 +61,7 @@ Nesse projeto foi utilizada apenas uma tabela como base de dados fictícia forne
 
 ## Projeto Contábil
 
-Arquivos desse projeto:
+Arquivos desse projeto: https://github.com/guilhermeol1/Portfolio_PowerBI/tree/main/Dashboard_Contabilidade_GuilhermeOliveira
 
 Esse é um projeto de Análise de dados Contábeis utilizando o Power BI, feito durante o curso do Data Science Academy (Microsoft Power BI Para Business Intelligence e Data Science).
 
