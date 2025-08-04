@@ -6,7 +6,10 @@ Bem vindo(a) ao meu portfolio de projetos em Power BI!
 Neste repositório estão armazenados todos os dashboards que criei durante o início da minha jornada de estudos com o Microsoft Power BI, com foco em ingressar na área de analista de BI como estagiário.  
 Esse é um portfolio diversificado com dashboards para as seguintes áreas de negócio:  
 ## Projeto de Marketing  
-
+![Dashboard_Marketing_1_Guilherme](https://github.com/user-attachments/assets/38b63205-6090-4ca1-9253-4f9b06e00a7e)  
+![Dashboard_Marketing_2_Guilherme](https://github.com/user-attachments/assets/7a676619-0fe8-4e54-8ca3-f0bab4a61e0d)  
+![Dashboard_Marketing_3_Guilherme](https://github.com/user-attachments/assets/79d13d34-6fb4-482b-9fa4-8bc55c6f5ab4)  
+![Dashboard_Marketing_4_Guilherme](https://github.com/user-attachments/assets/2659aab7-ccff-4562-a700-678b708e3b81)  
 Arquivos desse projeto: https://github.com/guilhermeol1/Portfolio_PowerBI/tree/main/Dashboard_Marketing_GuilhermeOliveira
 
 Esse é um projeto de escopo aberto de Análise de dados de Marketing utilizando o Power BI, a base de dados foi retirada dessa página do github: https://github.com/nailson/ifood-data-business-analyst-test.
