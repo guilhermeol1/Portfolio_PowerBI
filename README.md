@@ -6,9 +6,19 @@ Bem vindo(a) ao meu portfolio de projetos em Power BI!
 Neste repositório estão armazenados todos os dashboards que criei durante o início da minha jornada de estudos com o Microsoft Power BI, com foco em ingressar na área de analista de BI como estagiário.  
 Esse é um portfolio diversificado com dashboards para as seguintes áreas de negócio:  
 ## Projeto de Marketing  
-Arquivos desse projeto:
 
-Esse é um projeto de Análise de dados de Marketing utilizando o Power BI.
+Arquivos desse projeto: https://github.com/guilhermeol1/Portfolio_PowerBI/tree/main/Dashboard_Marketing_GuilhermeOliveira
+
+Esse é um projeto de escopo aberto de Análise de dados de Marketing utilizando o Power BI, a base de dados foi retirada dessa página do github: https://github.com/nailson/ifood-data-business-analyst-test.
+
+Esse Dashboard foi desenvolvido com o objetivo de otimizar futuras campanhas e aumentar o engajamento e a receita de uma empresa fictícia de alimentos. Partindo de um escopo aberto, o projeto teve como foco principal traduzir dados de clientes (características, comportamento de compra e engajamento em campanhas) em estratégias de marketing acionáveis.
+A solução foi construída da seguinte forma:  
+- Análise de Clientes: O dashboard fornece uma visão clara dos clientes fiéis vs. clientes em potencial, permitindo à empresa direcionar esforços para fidelizar quem já compra e para captar quem tem potencial de alta receita.
+- Segmentação Dinâmica: Através de uma análise prévia dos dados, foi implementado um filtro personalizado de perfis, que permite analisar as características, o valor gerado e o comportamento de compra de 4 perfis que possuem o potencial de melhorar o engajamento e/ou receita da empresa. Esse filtro está presente em todas as páginas do dashboard, oferecendo uma ferramenta dinâmica para a equipe de marketing.
+- Visualizações Estratégicas: Cada página do dashboard foi projetada para contar uma parte da história, desde o perfil demográfico dos clientes até o valor que eles geram, culminando na definição das personas.
+- Criação de Personas de Marketing: Através de uma análise detalhada dos dados demográficos e de compra de cada perfil, foram criados personas que a equipe de marketing pode utilizar para segmentar campanhas futuras de forma mais precisa e gerando mais lucro para a empresa.
+
+Nesse projeto foi utilizada apenas uma tabela como base de dados, já mencionada anteriormente, porém uma cópia foi criada para ser modificada com o intuito de torná-la mais fácil de utilizar e não comprometer a base de dados original, assim temos dois arquivos na pasta da base de dados (o arquivo .csv é o original, já o .xlsx é o modificado).
 
 ## Projeto de Vendas  
 ![Dashboard_de_Vendas_Guilherme](https://github.com/user-attachments/assets/a37e8295-4ede-4387-b755-bbdefefe9cd3)  
